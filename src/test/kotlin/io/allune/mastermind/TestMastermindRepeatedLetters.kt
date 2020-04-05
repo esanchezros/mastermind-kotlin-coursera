@@ -1,8 +1,10 @@
-package mastermind
+package io.allune.mastermind
 
+import org.junit.FixMethodOrder
 import org.junit.Test
+import org.junit.runners.MethodSorters
 
-//@FixMethodOrder(MethodSorters.NAME_ASCENDING)
+@FixMethodOrder(MethodSorters.NAME_ASCENDING)
 class TestMastermindRepeatedLetters {
 
     @Test

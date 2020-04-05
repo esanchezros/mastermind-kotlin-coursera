@@ -1,4 +1,4 @@
-package mastermind
+package io.allune.mastermind
 
 import org.junit.Assert
 
